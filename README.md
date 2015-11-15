@@ -17,9 +17,9 @@ To compile the code, set this as your working directory and run the following co
 
 ## RUN
 
-If your browser supports java applets then you may run the program simply by opening the filter `Connect4.html` in your browser. Alternatively, you may run the program from the command line. Set this as your working directory and run the following command.
+If your browser supports java applets then you may run the program simply by opening the filter `ConnectFour.html` in your browser. Alternatively, you may run the program from the command line. Set this as your working directory and run the following command.
 
-`appletviewer Connect4.html`
+`appletviewer ConnectFour.html`
 
 ## How It Works
 
