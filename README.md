@@ -15,7 +15,7 @@ To compile the code, set this as your working directory and run the following co
 
 `javac bin/GameEngine.java bin/InterfaceEngine.java -d bin/`
 
-## RUN
+## Run
 
 If your browser supports java applets then you may run the program simply by opening the filter `ConnectFour.html` in your browser. Alternatively, you may run the program from the command line. Set this as your working directory and run the following command.
 
