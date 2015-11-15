@@ -9,7 +9,7 @@ Play [Connect Four](https://en.wikipedia.org/wiki/Connect_Four) against the comp
 
 ## Compile
 
-Make sure a Java Developer Kit has first been installed such as Open JDK. Installation instructions for OpenJDK may be found [here](http://openjdk.java.net/install/) but be sure to install the **developer package**, not the runtime environment. The program has been tested on OpenJDK 7 but is expected to work on more recent versions.
+Make sure a Java Developer Kit has first been installed such as Open JDK. Installation instructions for Open JDK may be found [here](http://openjdk.java.net/install/) but be sure to install the **developer package**, not the runtime environment. The program has been tested on OpenJDK 7 but is expected to work on more recent versions.
 
 To compile the code, set this as your working directory and run the following command.
 
