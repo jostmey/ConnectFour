@@ -9,11 +9,15 @@ Adjust the difficulty setting to play on either easy, medium, or hard settings.
 * Download: [zip](https://github.com/jostmey/ConnectFour/zipball/master)
 * Git: `git clone https://github.com/jostmey/ConnectFour`
 
-## Compile and Run
+## Compile
 
-sudo apt-get install openjdk-7-jdk
+Make sure a Java Developer Kit has first been installed, such as Open JDK. Installation instructions are [here](http://openjdk.java.net/install/). The program has been tested on OpenJDK 7, which may be installed in a Debian/Ubuntu environment by:
+
+'sudo apt-get install openjdk-7-jdk'
 
 javac GameEngine.java InterfaceEngine.java
+
+## RUN
 
 appletviewer Connect4.html
 
