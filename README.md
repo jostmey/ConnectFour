@@ -15,7 +15,7 @@ Make sure a Java Developer Kit (JDK) has first been installed such as Open JDK. 
 
 To compile the code, set the working directory to this folder and run the following command.
 
-`javac bin/GameEngine.java bin/InterfaceEngine.java -d bin/`
+`javac GameEngine.java InterfaceEngine.java -d bin/`
 
 ## Run
 
