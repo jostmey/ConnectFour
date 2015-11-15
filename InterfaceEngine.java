@@ -35,7 +35,7 @@ public class InterfaceEngine extends Applet implements ActionListener, Component
             NEW_GAME = "New Game",
             SET_AI = "A.I. Difficulty",
             ABOUT = "About",
-            DIALOG_ABOUT = "Java4 was written by Jared Ostmeyer",
+            DIALOG_ABOUT = "Connect Four was written by Jared Ostmeyer",
             HUMAN_MOVE_FIRST = "Move first",
             HUMAN_MOVE_SECOND = "Move second",
             DIALOG_NEW_GAME = "Do you want to move first?",
