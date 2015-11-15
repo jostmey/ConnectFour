@@ -13,7 +13,7 @@ Adjust the difficulty setting to play on either easy, medium, or hard settings.
 
 sudo apt-get install openjdk-7-jdk
 
-javac *.java -d bin/ 
+javac GameEngine.java InterfaceEngine.java
 
 appletviewer Connect4.html
 
