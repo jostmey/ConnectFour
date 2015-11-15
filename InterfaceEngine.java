@@ -1,6 +1,4 @@
 /*
- <a href="Connect4.html">Back to main page</a>
-
  Author: Jared Ostmeyer
 
  Disclaimer: Feel free to use and modify the code. My only demand is that you do
