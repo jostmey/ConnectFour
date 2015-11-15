@@ -1,6 +1,8 @@
 ## Description
 
-Play [Connect Four](https://en.wikipedia.org/wiki/Connect_Four) against the computer using this *Java Applet*. Right click on the mouse to drop a piece into the highlighted column. After watching your piece fall the computer will make its move. The difficulty setting can be adjusted to easy, medium, or hard.
+Play [Connect Four](https://en.wikipedia.org/wiki/Connect_Four) against the computer with this Java applet. Right click on the mouse to drop a piece into the highlighted column. After watching your piece fall the computer will make its move. The difficulty setting can be adjusted to easy, medium, or hard.
+
+![alt text](img/ConnectFour.png "Screenshot of Applet")
 
 ## Download
 
@@ -9,7 +11,7 @@ Play [Connect Four](https://en.wikipedia.org/wiki/Connect_Four) against the comp
 
 ## Compile
 
-Make sure a Java Developer Kit has first been installed such as Open JDK. Installation instructions for Open JDK may be found [here](http://openjdk.java.net/install/) but be sure to install the *developer package*, not the runtime environment. The program has been tested on OpenJDK 7 but is expected to work on more recent versions.
+Make sure a Java Developer Kit (JDK) has first been installed such as Open JDK. Installation instructions for Open JDK may be found [here](http://openjdk.java.net/install/) but be sure to install the *developer package*, not the runtime environment. The program has been tested on OpenJDK 7 but is expected to work on more recent versions.
 
 To compile the code, set the working directory to this folder and run the following command.
 
