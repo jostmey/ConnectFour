@@ -1,6 +1,8 @@
 ## Description
 
-Play Connect Four against the computer. Choose between easy, medium, or hard settings.
+Play [Connect Four](https://en.wikipedia.org/wiki/Connect_Four) against the computer. Right click on the mouse to drop a piece in the highlighted column. After watching your piece fall the computer will make its move.
+
+Once you've mastered the game use the drop-down menu to switch to the medium or hard difficulty setting.
 
 ## Download
 
