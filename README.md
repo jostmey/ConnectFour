@@ -11,15 +11,17 @@ Adjust the difficulty setting to play on either easy, medium, or hard settings.
 
 ## Compile
 
-Make sure a Java Developer Kit has first been installed, such as Open JDK. Installation instructions are [here](http://openjdk.java.net/install/). The program has been tested on OpenJDK 7, which may be installed in a Debian/Ubuntu environment by:
+Make sure a Java Developer Kit has first been installed such as Open JDK. Installation instructions for OpenJDK may be found [here](http://openjdk.java.net/install/), but be sure to install the developer package and not the runtime environment. The program has been tested on OpenJDK 7 but is expected to work on more recent versions.
 
-'sudo apt-get install openjdk-7-jdk'
+To compile the code, set this as your working directory and run the following command.
 
-javac GameEngine.java InterfaceEngine.java
+`javac GameEngine.java InterfaceEngine.java`
 
 ## RUN
 
-appletviewer Connect4.html
+If your browswer supports java applets then you may use it to run the program. Simply use the browser to open the file "Connect4.html". Alternatively, you may run the program from the commmand line. Set this as your working directory and run the following command.
+
+`appletviewer Connect4.html`
 
 ## How It Works
 
