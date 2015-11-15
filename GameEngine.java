@@ -8,7 +8,7 @@
 import java.util.Random;
 
 interface AI{
-    int PLY[] = {3, 6, 8};
+    int PLY[] = {3, 6, 9};
     double RANDOM_WEIGHT[] = {1.0, 0.5, 0.3};
 }
 
