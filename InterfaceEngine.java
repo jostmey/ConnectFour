@@ -28,7 +28,7 @@ public class InterfaceEngine extends Applet implements ActionListener, Component
     
     public final int BUTTON_BORDER = 25;
     
-    public final static String TITLE = "Java4",
+    public final static String TITLE = "Connnect Four",
             COMPUTER_WINS = "The computer has won!",
             HUMAN_WINS = "The human has won!",
             BOARD_FULL = "The game has ended.",
