@@ -1,6 +1,6 @@
 ## Description
 
-Play [Connect Four](https://en.wikipedia.org/wiki/Connect_Four) against the computer with this Java applet. Right click on the mouse to drop a piece into the highlighted column. After watching your piece fall the computer will make its move. The difficulty setting can be adjusted to easy, medium, or hard.
+Play [Connect Four](https://en.wikipedia.org/wiki/Connect_Four) against the computer with this Java applet. Right click on the mouse to drop a piece into the selected column. After watching your piece fall the computer will make its move. The difficulty setting can be adjusted to easy, medium, or hard.
 
 ![alt text](img/Screenshot.png "Screenshot of Applet")
 
